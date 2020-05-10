@@ -1,5 +1,8 @@
 // jshint esversion: 6
-
+let failHandler = () => { 
+console.log("Fail -- unknown breed");  $(".photos").empty().html("<h3>Error -- breed
+not found<h3>"); 
+}; 
 //1. Define the onclick handler
 let clickHandler = function() {
   let imgElem;
