@@ -59,7 +59,7 @@ let findAllbitBatBotOrNots4 = (arr) => {
   return output;
 }
 
-//test the functions
+
 
 findAllbitBatBotOrNots1(arrOf1To100)
 
