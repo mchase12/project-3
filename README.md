@@ -1,7 +1,7 @@
 # Project 3 Repo
 
 Link to Github User Page:
-[Github User Page](mchase12.github.io)
+[Github User Page](https://mchase12.github.io/)
 
 ## 281 Project 3 Learning Outcomes
 - A web API or Application Programming Interface is an API accessed using the HTTP protocol. Web APIs often deliver data formatted as JSON.
